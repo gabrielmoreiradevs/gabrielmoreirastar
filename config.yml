@@ -1,0 +1,38 @@
+username: gabrielmoreiradevs
+
+profile:
+  name: Gabriel Moreira
+  tagline: Backend Developer • Java & Spring Boot
+  company: UNAERP
+  location: Brasil
+  bio: Desenvolvedor backend focado em APIs escaláveis e arquitetura de software.
+  philosophy: Transformando teoria em soluções reais.
+
+social:
+  email: gabrielmoreirafermino@hotmail.com
+  linkedin: gabriel-moreiraf
+
+galaxy_arms:
+  - name: Backend
+    color: synapse_cyan
+    tech: [Java, Spring Boot, Hibernate, PostgreSQL]
+
+  - name: Frontend
+    color: dendrite_violet
+    tech: [React, TypeScript, Bootstrap]
+
+  - name: DevOps
+    color: axon_amber
+    tech: [Docker, GitHub Actions]
+
+projects:
+  - repo: construconnect-back-v2
+    arm: 0
+    description: API REST com Spring Boot
+
+stats:
+  metrics: [commits, stars, prs, issues, repos]
+
+languages:
+  exclude: [html]
+  max_display: 6
